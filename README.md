@@ -39,7 +39,7 @@ I’m a passionate **Full-Stack Developer** with expertise in backend, frontend,
 
 ## 📫 Contact
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/julie-raymond-dev) or send me an email at your.email@example.com
+Feel free to connect with me on [LinkedIn]([www.linkedin.com/in/julie-raymond-dev](https://www.linkedin.com/in/julie-raymond-dev/)).
 
 ---
 
